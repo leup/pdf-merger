@@ -2,7 +2,7 @@
     "name": "leup/pdf-merger",
     "description": "PDF File Merger for PHP5",
     "require": {
-        "setasign/fpdi-fpdf": "dev-master"
+        "setasign/fpdi-fpdf": "1.6.1"
     },
     "authors": [
         {

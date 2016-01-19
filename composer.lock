@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "b9f869d01b15b6c7430b270414ebb150",
-    "content-hash": "3d5ea50718fe34e4b5a7688b58a3efbc",
+    "hash": "602d8c380ac1b2eb0751723dc043cdce",
+    "content-hash": "da22bd0000adfd4234e9cdd77243acd7",
     "packages": [
         {
             "name": "setasign/fpdf",
@@ -97,7 +97,7 @@
         },
         {
             "name": "setasign/fpdi-fpdf",
-            "version": "dev-master",
+            "version": "1.6.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Setasign/FPDI-FPDF.git",
@@ -143,9 +143,7 @@
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "setasign/fpdi-fpdf": 20
-    },
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],
