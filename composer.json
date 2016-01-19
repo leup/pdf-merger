@@ -1,13 +1,17 @@
 {
-    "name": "clegginabox/pdf-merger",
+    "name": "leup/pdf-merger",
     "description": "PDF File Merger for PHP5",
     "require": {
-        "itbz/fpdi": "dev-master"
+        "setasign/fpdi-fpdf": "dev-master"
     },
     "authors": [
         {
             "name": "Paul Clegg",
             "email": "paul@clegginabox.co.uk"
+        },
+		{
+            "name": "Paul Bernard",
+            "email": "paul@glasshouse.fr"
         }
     ],
     "autoload": {
